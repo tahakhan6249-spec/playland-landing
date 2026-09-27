@@ -1,0 +1,137 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    color: #ffffff;
+    background-color: #0b1020;
+    line-height: 1.5;
+}
+
+/* Header */
+header {
+    background-color: #111827;
+    color: #00e5ff;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #00e5ff;
+}
+
+/* Home */
+#home {
+    background-color: #384e90;
+    text-align: center;
+}
+
+#home h2 {
+    color: #00e5ff;
+    font-size: 32px;
+}
+
+#home p {
+    color: #cbd5e1;
+    font-size: 17px;
+}
+
+#home a {
+    color: #ffffff;
+    background-color: #7c3aed;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* About */
+#about {
+    text-align: center;
+    background-color: #0f172a;
+}
+
+#about h2 {
+    color: #00e5ff;
+    font-size: 28px;
+}
+
+#about p {
+    color: #cbd5e1;
+    font-size: 16px;
+}
+
+/* Services */
+#services {
+    background-color: #1e293b;
+    text-align: center;
+}
+
+#services h2 {
+    color: #a78bfa;
+    font-size: 28px;
+}
+
+#services h3 {
+    color: #00e5ff;
+    font-size: 20px;
+}
+
+#services p {
+    color: #cbd5e1;
+}
+
+/* Features */
+#features {
+    text-align: center;
+    background-color: #312e81;
+    color: #ffffff;
+}
+
+#features h2 {
+    color: #67e8f9;
+    font-size: 28px;
+}
+
+#features h3 {
+    color: #67e8f9;
+    font-size: 20px;
+}
+
+#features p {
+    color: #e2e8f0;
+}
+
+/* Contact */
+#contact {
+    text-align: center;
+    background-color: #111827;
+}
+
+#contact h2 {
+    color: #00e5ff;
+}
+
+#contact p {
+    color: #cbd5e1;
+}
+
+/* Footer */
+footer {
+    background-color: #070b14;
+    color: #ffffff;
+    text-align: center;
+}
+
+footer p {
+    color: #94a3b8;
+    font-size: 14px;
+}
